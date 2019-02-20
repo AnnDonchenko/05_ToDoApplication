@@ -1,0 +1,10 @@
+.container{
+  max-width:500px;
+  margin: 0 auto;
+  box-shadow: 0 0 14px #aaaaaa;
+  border-radius: 4px;
+  padding: 10px;
+}
+.strike{
+  text-decoration: line-through;
+}
